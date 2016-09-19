@@ -1,6 +1,15 @@
 Info for using: write the following information about yourself in this sequance with numbers.
+
 1.name Katrin Popova
 2.years 26
 3.zodiac sign pieces
 4.height 1.60m.
 5.email katrin.mihaylova@gmail.com
+
+1.name Todor Orlinov Popov
+2.years 25
+3.zodiac sign Libra
+4.height 1.83m.
+5.email totopopov@gmail.com
+
+
