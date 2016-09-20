@@ -30,5 +30,17 @@ It has to explode!!!!
 4.height 1.74
 5.email "peshoto@gmail.com"
 
+1.name Gabriela Vasileva
+2.years 24
+3.zodiac sign Leo
+4.height 1.65m.
+5.email "gabcho7@abv.bg"
+
+
+1.name Theodora Dimitrova
+2.years 26
+3.zodiac telec
+4.height 1.65
+5.email:teddybear901@abv.bg
 
 
