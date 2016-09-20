@@ -43,8 +43,6 @@ It has to explode!!!!
 4.height 1.65
 5.email:teddybear901@abv.bg
 
-<<<<<<< HEAD
+
 i az pravq promeni
-=======
->>>>>>> 9584255569702e1059ab0fb6086b5ed8f510b02b
 
