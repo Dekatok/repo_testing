@@ -14,6 +14,10 @@ Info for using: write the following information about yourself in this sequance 
 6.Искам пералня с bluethoot
 
 
+
+I am changing the file
+It has to explode!!!!
+
 1.name Ivan Valentinov Piyvikov
 2.years 30
 3.zodiac sign pieces
@@ -39,5 +43,8 @@ Info for using: write the following information about yourself in this sequance 
 4.height 1.65
 5.email:teddybear901@abv.bg
 
+<<<<<<< HEAD
 i az pravq promeni
+=======
+>>>>>>> 9584255569702e1059ab0fb6086b5ed8f510b02b
 
